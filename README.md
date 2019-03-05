@@ -55,3 +55,7 @@ Want to join the project? See our [contributing guide.](https://github.com/CPP-S
 - Titichot Nuntapramote
 - William Balsells
 - Yudong Hu
+
+## License
+
+Santé is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details
