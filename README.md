@@ -58,4 +58,4 @@ Want to join the project? See our [contributing guide.](https://github.com/CPP-S
 
 ## License
 
-Santé is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details
+Santé is licensed under the MIT License. See the [LICENSE](LICENSE).
