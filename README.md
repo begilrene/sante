@@ -16,8 +16,8 @@ Create a new empty Java project called "sante." Navigate to your default Workspa
 git clone https://github.com/CPP-SEA/sante.git
 ```
 
-## Progress
-See [projects page](https://github.com/CPP-SEA/sante/projects) for ongoing work.
+## Project Goals
+See [roadmap page](https://github.com/CPP-SEA/sante/blob/master/ROADMAP.MD).
 
 ## Contributing
 Want to join the project? See our [contributing guide.](https://github.com/CPP-SEA/sante/blob/master/CONTRIBUTING.md)
